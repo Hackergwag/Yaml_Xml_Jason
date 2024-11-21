@@ -1,6 +1,5 @@
 <h1>Yaml_Xml_Json</h1>
 
-
 <h2>Description</h2>
 YAML: A human-readable format for configuration files and data serialization, using indentation for structure.
 XML: A markup language for storing and exchanging structured data, using tags and attributes.
