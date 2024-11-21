@@ -1,15 +1,15 @@
-<h1>Yaml_Json_Xml</h1>
+<h1>Yaml_Xml_Json</h1>
 
 
 <h2>Description</h2>
-This Project talks about Wireshark as a popular open-source network analysis tool used for capturing and inspecting data packets traveling across a network in real-time. It allows users to monitor network traffic, troubleshoot issues, analyze security vulnerabilities, and gain insights into network performance. Wireshark supports various protocols, making it a versatile tool for diagnosing and identifying potential problems within a network. It is widely used by network administrators, security professionals, and developers for its deep packet inspection capabilities and user-friendly interface.
-
+YAML: A human-readable format for configuration files and data serialization, using indentation for structure.
+XML: A markup language for storing and exchanging structured data, using tags and attributes.
+JSON: A lightweight, easy-to-read data format using key-value pairs, popular in web APIs.
 <br />
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Wireshark</b>
-- <b>Kali Linux</b>
+- <b>Texteditor</b>
 
 <h2>Environments Used </h2>
 
@@ -18,7 +18,7 @@ This Project talks about Wireshark as a popular open-source network analysis too
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Wireshark Startup: <br/>
+Yaml: <br/>
 <img src="https://imgur.com/VK0SlmZ.png="Wireshark"/>
 <br />
 <br />
